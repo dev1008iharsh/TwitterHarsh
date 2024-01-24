@@ -31,4 +31,3 @@ Some functionality in this app, such as retweeting, commenting, following and re
 
 Note - I intentionally remove some parts of the project from every file in GitHub so that no one can misuse my project. If you want to watch my full project code, you can contact me using any social media platform. If you are a developer, you can understand what I removed. This is my one of the latest project for that you can find code according to iOS 17.2
 
-GitHub Link - https://lnkd.in/dSaKDuAn
