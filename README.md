@@ -31,3 +31,7 @@ Some functionality in this app, such as retweeting, commenting, following and re
 
 Note - I intentionally remove some parts of the project from every file in GitHub so that no one can misuse my project. If you want to watch my full project code, you can contact me using any social media platform. If you are a developer, you can understand what I removed. This is my one of the latest project for that you can find code according to iOS 17.2
 
+![1704175630256](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/0dde813d-768d-44fd-a0d7-eac64799df8b)
+![1704175626868](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/885e4279-a480-48f8-876d-9d973caebfd5)
+
+
