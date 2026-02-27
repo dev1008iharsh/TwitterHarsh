@@ -1,37 +1,119 @@
-# TwitterHarsh
- Social media application in swift using MVVM
+# 🐦 TwitterHarsh — Social Media App (Twitter/X Clone)
 
-🐦 HarshTwitter iOS Application Developed by me 😍 💻 using MVVM Pattern, Firebase Authentication, Firestore Database and Storage, and the Swift Combine framework in latest Swift 5.9 Language. GitHub link is provided below; you can watch videos and images of the app there.
+> MVVM-based native iOS social networking application built with Swift, UIKit, Firebase, and Combine.
 
-For more Screenshot of the app - https://drive.google.com/drive/folders/1DHOBgc-9sVUMXdbcDqKJx7OVIz3jpGD-?usp=drive_link
+---
+
+## 📱 Preview
+
+ 
+
+---
+
+## 🚀 Overview
+
+TwitterHarsh is a full-featured social media application inspired by Twitter/X, designed to demonstrate real-world iOS engineering practices.  
+The app enables users to create accounts, publish posts with images, explore global feeds, search via hashtags, and manage personal profiles — all backed by Firebase cloud services.
+
+> ⚠️ This project is created for educational and portfolio purposes and is not intended for App Store submission.
 
 Video of the app iPhone 15 pro max - https://youtu.be/HZxq9QJzXKI?si=8RxqncAfkTSNsMxB
+---
 
-My Linkedin profile Link - https://www.linkedin.com/in/harsh-darji-6a3741147
+## ✨ Core Features
 
-Note - I intentionally remove some parts of the project from every file in GitHub so that no one can misuse my project. If you want to watch my full project code, you can contact me using any social media platform. If you are a developer, you can understand what I removed.This is my one of the latest project for that you can find code according to iOS 17.
+👤 **Authentication & User Management**  
+- Email/password authentication via Firebase Authentication  
+- Profile setup workflow after signup  
+- Secure session handling  
 
-Users can create an account in this TwitterHarsh application using the email password authentication technique, which is managed by me in FirebaseAuthentication server. To use the app, users must first create an account and fill out their profile information.
+🏠 **Dynamic Timeline**  
+- Global feed showing all users’ posts  
+- Personal feed showing only user’s tweets  
+- Real-time updates using Firestore  
 
-After creating an account, users can explore the accounts, personal information, photographs, and tweets of other users.
+📝 **Content Creation**  
+- Create posts with text and images  
+- Hashtag support for discovery  
+- Media upload via Firebase Storage  
 
-The user can compose his own tweet, which will appear on the Home All Tweets page and be available to other users.
+👥 **Profile System**  
+- View other users’ profiles and posts  
+- Edit profile details (bio, location, birthday, images)  
+- Cover photo & profile picture support  
 
-On Home, there are two options: one displays tweets from all users, while the other displays tweets from the user itself, and using the search tab, users can create tweets with popular hashtags.
+📸 **Advanced Media Handling**  
+- Custom image picker with camera support  
+- Cropping and filters  
+- Media preview before upload  
 
-The edit profile section allows the user to update a profile by changing the name, username, location, bio, birthday, cover image, and profile image. I also used a visually appealing photo picker that allows users to change photographs from a gallery. Users can use this functionality to take pictures, crop images, and apply fantastic filters to images to improve the appearance of the selected image.
+🔍 **Search & Discovery**  
+- Hashtag-based search functionality  
+- Explore popular topics  
 
-Users can view other users' profiles and tweets by visiting the profile tab and selecting the tweet.
+🔄 **Reactive Architecture**  
+- Combine framework for state management  
+- Real-time UI updates  
 
-I attempt to emulate the UI design of the Twitter/X application. The project is developed for educational or skill-showcasing purposes. I will never submit this application to the app store.It also support different theming functionality such as dark mode light mode.
+🌙 **Adaptive UI**  
+- Fully programmatic UIKit interface  
+- Light & Dark mode support  
 
-To store photos, manage users, handle tweets, and manage user authentication, I used Firebase Authentication, Firestore Database and Storage, and the Swift Combine framework.
+---
 
-Some functionality in this app, such as retweeting, commenting, following and replying to tweets, are still under development. I'm hoping to finish it as soon possible when I'll have leisure time in the future. 🤞
+## 🏗️ Architecture
 
-Note - I intentionally remove some parts of the project from every file in GitHub so that no one can misuse my project. If you want to watch my full project code, you can contact me using any social media platform. If you are a developer, you can understand what I removed. This is my one of the latest project for that you can find code according to iOS 17.2
+- MVVM Pattern  
+- Modular UIKit components  
+- Reactive data flow with Combine  
+- Cloud-backed data layer  
 
-![1704175630256](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/0dde813d-768d-44fd-a0d7-eac64799df8b)
-![1704175626868](https://github.com/dev1008iharsh/TwitterHarsh/assets/155307551/885e4279-a480-48f8-876d-9d973caebfd5)
+---
 
+## ☁️ Backend & Storage
 
+- Firebase Authentication  
+- Cloud Firestore (NoSQL Database)  
+- Firebase Storage (Media Files)  
+
+---
+
+## 🧠 Technical Highlights
+
+- Clean architecture with separation of concerns  
+- Scalable data modeling for social features  
+- Programmatic UI — no Storyboards  
+- Optimized for performance and responsiveness  
+- Built using modern Swift (iOS 17 compatible)
+
+---
+
+## 🚧 Work in Progress
+
+The following features are planned for future updates:
+
+- Retweets / Reposts  
+- Comments & Replies  
+- Follow / Unfollow System  
+- Notifications  
+
+---
+
+## 🔐 Repository Note
+
+Some implementation details have been intentionally removed from the public repository to prevent misuse.  
+Developers interested in the complete project can contact me.
+
+---
+
+## 📬 Contact
+
+📧 dev.iharsh1008@gmail.com  
+📱 +91 9662108047  
+
+🌐 Portfolio: https://dev1008iharsh.github.io/  
+💼 LinkedIn: https://www.linkedin.com/in/dev1008iharsh/  
+
+---
+
+⭐️ If you found this project helpful, consider starring the repository.
