@@ -1,12 +1,14 @@
-# 🐦 TwitterHarsh — Social Media App (Twitter/X Clone)
+![1772100478429](https://github.com/user-attachments/assets/7e2b58eb-2a51-46b8-9472-c3b81ea9c5b9)# 🐦 TwitterHarsh — Social Media App (Twitter/X Clone)
 
 > MVVM-based native iOS social networking application built with Swift, UIKit, Firebase, and Combine.
 
 ---
+Preview
 
-## 📱 Preview
+![1772100478429](https://github.com/user-attachments/assets/c316602f-382f-4518-9048-c6ea4bb065aa)
 
  
+![1772100478439](https://github.com/user-attachments/assets/0c3538a8-2642-4a94-a9ca-2d8996be6f74)
 
 ---
 
